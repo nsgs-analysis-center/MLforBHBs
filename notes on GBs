@@ -1,0 +1,5 @@
+- Yolo doesn't do too well with extreme aspect ratios. Might need to split image into several parts.
+- Maybe make bounding boxes wider (frequency-wise) to improve detection
+- Not sure if the bounding box algorithm is quite right, especially if GBs appear at lower frequencies
+- Train on pre-trained BHB model.
+- GB waveforms have not been saved during data generation, and also take a long time to generate.
